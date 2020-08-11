@@ -1,0 +1,63 @@
+{
+  "data": {
+    "name": {
+      "first": "John",
+      "last": "Smith",
+      "full": "John Smith"
+    },
+    "occupation": {
+      "company": "Apple",
+      "position": "Developer"
+    },
+    "faces": {
+      "avatar": "e1921ae0-7ddb-11ea-ad10-99c074581f1e",
+      "list": [
+        {
+          "_id": "5e94f11fc702f0099196cff5",
+          "awsFaceId": "46a838d9-1d20-4ffa-be7c-36156428c57d",
+          "awsImageId": "28e071ad-739d-3038-a81f-0ed25cb54e54",
+          "awsCollectionId": "5e8a98d6fee628a27cf8402e",
+          "thumbnailImageFilename": "3de0e480-7ddb-11ea-bda7-b33444c9bced"
+        },
+        {
+          "_id": "5e94f153c702f0099196cff8",
+          "awsFaceId": "5670484b-49ed-44c4-8515-52b7274cc5be",
+          "awsImageId": "057b566f-1b54-3727-9ef6-025f8c0249cf",
+          "awsCollectionId": "5e8a98d6fee628a27cf8402e",
+          "thumbnailImageFilename": "e1921ae0-7ddb-11ea-ad10-99c074581f1e"
+        },
+        {
+          "_id": "5e94f17ec702f0099196cffb",
+          "awsFaceId": "42baeb33-06a9-401d-8261-530301ec1b77",
+          "awsImageId": "643bc9d1-178c-3fec-aed4-971b60f0b7dd",
+          "awsCollectionId": "5e8a98d6fee628a27cf8402e",
+          "thumbnailImageFilename": "fe32bfb0-7ddb-11ea-ad10-99c074581f1e"
+        }
+      ]
+    },
+    "_id": "5e94c5aa9605ed062275585b",
+    "phones": [
+      {
+        "_id": "5e94c5aa9605ed062275585c",
+        "label": "Personal",
+        "number": "6086674837"
+      }
+    ],
+    "emails": [
+      {
+        "_id": "5e94f0099605ed062275585e",
+        "label": "Personal",
+        "address": "john@apple.com"
+      }
+    ],
+    "socials": [
+      {
+        "_id": "5e94f0099605ed062275585f",
+        "platform": "Twitter",
+        "username": "john.smith"
+      }
+    ],
+    "group": "5e8a98d7fee628a27cf8402f",
+    "id": "5e94c5aa9605ed062275585b"
+  }
+}
