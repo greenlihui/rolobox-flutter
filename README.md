@@ -12,6 +12,6 @@ More details about rolobox can be found in [rolobox-node](https://github.com/gre
 
 ## screenshots
 - login
-![](screenshot/login.JPG)
+![login](screenshot/login.JPG)
 - contacts
-![](screenshot/contacts.JPG)
+![contacts](screenshot/contacts.JPG)
